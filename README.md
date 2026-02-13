@@ -24,10 +24,12 @@ I am a Computer Engineering student focused on designing and developing personal
 
 ## 📂 Featured Projects
 
-🔹 **DrManager – Intelligent Medical Commission System**  
+🔹 **DrManager – Intelligent Medical Commission System  
 Web & Android application for managing doctor info, tracking sales, commissions, visualizing revenue, and analyzing performance using Gemini AI. Invoices can also be sent directly to doctors via WhatsApp.  
 [View Project →](https://github.com/armitta_rzz/drmanagerr)
 
+🌐 **Live Demo (Fake Data):** https://steady-youtiao-3d18ec.netlify.app  
+> ⚠️ This demo uses **fake data** and is intended for portfolio demonstration only.
 
 ---
 
